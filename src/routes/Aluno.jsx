@@ -1,4 +1,4 @@
-const Alunos = () =>{
+const Aluno = () =>{
     return(
         <>
         <h1>Aluno</h1>
